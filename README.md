@@ -41,15 +41,16 @@ Currently working as a **Junior Frontend Developer** at **TJAARA**, contributing
   <img src="https://media.giphy.com/media/IdyAQJVN2kVPNUrojM/giphy.gif" alt="React" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-line.svg" alt="Next.js" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" width="40" height="40"/>
-  <img src="https://media.giphy.com/media/RhEvslQJ6Sf7K/giphy.gif" alt="SASS/SCSS" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="SASS/SCSS" width="40" height="40"/>
+
 </p>
 
 #### 🧩 Backend
 
 <p align="left">
-  <img src="https://media.giphy.com/media/paVD8bCMEC0rfKL6Pv/giphy.gif" alt="Node.js" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" width="40" height="40"/>
-  <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0x5fd/giphy.gif" alt="MongoDB" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/socketio/socketio-original.svg" alt="Socket.IO" width="40" height="40"/>
 </p>
 
