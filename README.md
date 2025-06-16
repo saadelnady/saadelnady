@@ -44,7 +44,7 @@ Currently working as a **Junior Frontend Developer** at **TJAARA**, contributing
 
 <p align="left">
   <img src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" alt="Tailwind CSS" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" width="60" height="40" style="background-color:#000; padding:4px; border-radius:6px;" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Socket-io.svg" alt="Socket.IO" width="40" height="40"/>
 </p>
