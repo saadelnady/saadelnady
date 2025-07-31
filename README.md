@@ -68,10 +68,11 @@ Currently working as a **Junior Frontend Developer** at **TJAARA**, contributing
 
 #### 🏗️ Company Websites (Bilingual)
 
+- 🌐 [Woosho]([https://access-ambassador.nourseen.sa/](https://woosho-mg97.vercel.app/))  
 - 🌐 [Access Ambassador](https://access-ambassador.nourseen.sa/)  
 - 🌐 [Roots Real Estate](https://roots.nourseen.sa/)  
 - 🌐 [Rasyat](https://rasyat.com.sa/home)  
-- 🌐 [Bluehole](https://bluehole.com.sa/)
+- 🌐 [Alnargis]([https://bluehole.com.sa/](https://alnarjis.nourseen.sa/))
 
 #### 🛒 E-Commerce Platforms
 
